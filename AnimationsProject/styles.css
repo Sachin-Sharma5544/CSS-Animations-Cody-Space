@@ -1,0 +1,20 @@
+body {
+    background-image: url(./images/Space.png);
+    background-repeat: repeat-x;
+    background-color: rgba(3, 47, 88, 0.626);
+}
+
+
+
+.cody-image {
+    position: absolute;
+    top: 500px;
+    left: 450px;
+}
+
+.rocket-wrapper {
+    transform: rotateZ(45deg);
+    position: absolute;
+    left: -550px;
+    top: 530px;
+}
