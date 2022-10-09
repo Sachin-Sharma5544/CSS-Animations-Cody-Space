@@ -5,6 +5,7 @@ body {
 
 }
 
+
 .cody-image {
     animation: cody-move 2s infinite ease-in-out,
                 bring-cody-back 5s 3s ease-in-out forwards,
